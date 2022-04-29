@@ -1,0 +1,7 @@
+http://localhost/real/properties.php
+
+
+admin@gmail.com', 
+'admin
+
+http://localhost/real/admin/dashboard.php
